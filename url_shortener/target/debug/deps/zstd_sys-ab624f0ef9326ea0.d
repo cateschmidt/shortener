@@ -1,0 +1,9 @@
+/Users/caitlynschmidt/Documents/School/url-shortener/url_shortener/url_shortener/target/debug/deps/libzstd_sys-ab624f0ef9326ea0.rmeta: /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/lib.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zstd.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zdict.rs
+
+/Users/caitlynschmidt/Documents/School/url-shortener/url_shortener/url_shortener/target/debug/deps/libzstd_sys-ab624f0ef9326ea0.rlib: /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/lib.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zstd.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zdict.rs
+
+/Users/caitlynschmidt/Documents/School/url-shortener/url_shortener/url_shortener/target/debug/deps/zstd_sys-ab624f0ef9326ea0.d: /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/lib.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zstd.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zdict.rs
+
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/lib.rs:
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zstd.rs:
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-sys-2.0.13+zstd.1.5.6/src/bindings_zdict.rs:

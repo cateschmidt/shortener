@@ -1,0 +1,10 @@
+/Users/caitlynschmidt/Documents/School/url-shortener/url_shortener/url_shortener/target/debug/deps/liblog-282e1b15570fac3a.rmeta: /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/caitlynschmidt/Documents/School/url-shortener/url_shortener/url_shortener/target/debug/deps/liblog-282e1b15570fac3a.rlib: /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/caitlynschmidt/Documents/School/url-shortener/url_shortener/url_shortener/target/debug/deps/log-282e1b15570fac3a.d: /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs:
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs:
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs:
+/Users/caitlynschmidt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs:
