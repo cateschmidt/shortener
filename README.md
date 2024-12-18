@@ -29,8 +29,8 @@ I used Rust and serde to create this program.
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name]([http://url.link.goes.here](https://www.geeksforgeeks.org/introduction-to-rust-programming-language/))
-- [Web Site Name]([http://url.link.goes.here](https://www.rust-lang.org))
+- [Web Site Name] https://www.geeksforgeeks.org/introduction-to-rust-programming-language/
+- [Web Site Name] https://www.rust-lang.org
 
 # Future Work
 
